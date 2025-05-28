@@ -4,7 +4,7 @@ This is a container image build for [EndeavourOS](https://endeavouros.com), suit
 
 ### Example Distrobox usage
 
-```
+```console
 $ distrobox create endeavouros -i ghcr.io/cmptr/endeavouros
 $ distrobox enter endeavouros
 $ yay -S zen-browser-bin
